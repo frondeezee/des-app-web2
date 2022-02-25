@@ -9,7 +9,7 @@ header{
 
 article{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: aquamarine;
+    background-color: rgba(127, 255, 212, 0.373);
     width: 500px;
     padding-top: 0cm 0cm 0cm 0cm;
     margin: 100px;
@@ -39,7 +39,7 @@ h1{
 
 h2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(203, 197, 119);
+    color: rgb(198, 194, 89);
     font-display: 10px;
 }
 
